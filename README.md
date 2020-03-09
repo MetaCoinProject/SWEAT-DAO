@@ -1,2 +1,76 @@
-# dao-contributions
-Contribute to receive an allocation for $HEGIC tokens liquidity offerings
+```
+                           ,--.
+                          {     }
+                          3,    }
+                         /   `3`
+                    _   /    /
+                   {_'-3.__ /
+                     `/-.__3._
+                     /  W  /`\_}
+                    /  E  /     
+            ____   /  B  /
+     ,-'~~~~    ~~/  3  /_
+   ,'             ``~~~%%',
+  (                     %  Y
+ {           WEB 2.0     %% I
+{      -                 %  `.
+|       ',                %  )
+|        |   ,..__      __. Y
+|    .,_./  Y0'1/0^Y   J0101)|
+\           |'0/010|   |0101||
+ \          L1/0101. _ (01101'(
+  \,   ,      ^^""' / |      )
+    \_  \          /,L]     /
+      '-_`-,       ` `   ./`
+         `-(_<>"{}"**%<>{)}
+         `-(_+{}:L++ _,.--)
+            33333333333333
+```
+
+
+# ĐØ ₦Ø₮ ₮₳Ⱡ₭, ₱ⱤɆ₴₴ ₮ⱧɆ ₭ɆɎ₴.
+
+THOSE WHO PAY EFFORT TOWARDS OUR WAR AGAINST THE FINANCIAL SYSTEM WILL RECIEVE A PLACE AMONGST US FOR THE INITIAL EPOCH DISTRIBUTION
+
+https://daohaus.club/dao/v2/0x3919c6afed517fd3fb193ddb4a1524cd267f0069
+
+### ₩Ⱨ₳₮ ł₴ ₮ⱧɆ ₱Øł₦₮ Ø₣ ₮ⱧɆ ⱧɆ₲ł₵ Ɇ₱Ø₵Ⱨ ł Đ₳Ø?
+
+YOU GAIN PRIORITY ACCESS TO THE FIRST EPOCH TOKEN DISTRIBUTION. REST OF THE DISTRIBUTION WILL BE SOLD PUBLICALLY.
+
+### ₩ⱧØ ł₴ ₳ⱠⱠØ₩ɆĐ ₮Ø JØł₦ ₮ⱧɆ Đ₳Ø?
+
+ONLY THOSE WHO WILL HAVE CONTRIBUTED MEANINGFULLY TO THE PROJECT WILL BE ALLOWED INTO THE DAO. WE WILL BE CURATING MEMBERSHIP CAREFULLY TO THOSE WHO PRESS THE KEYS.
+
+### ₩Ⱨ₳₮ ₵ØɄ₦₮₴ ₳₴ ₵Ø₦₮Ɽł฿Ʉ₮łØ₦₴?
+
+- ENGINEERING {CODE REVIEWS, CODE AUDITS}
+- PRODUCT {DESIGN, PRODUCT, UX, VISUAL DESIGN}
+- COMMUNITY {ART, CONTENT, COMMUNITY HELP}
+- PROTOCOL {ECONOMICS, TOKEN DESIGN}
+- OTHER MEANINGFUL CONTRIBUTIONS
+
+THIS WILL BE UP TO YOUR INITIATIVE.
+
+YOU ARE YOUR OWN SOLDIER. FIGHT YOUR WAR.
+
+THESE CONTRIBUTIONS WILL BE APPROVED BY M0LLY AND OTHER KEY COMMUNITY CONTRIBUTORS. EXISTING DAO MEMBERS WILL SELF CURATE THE FIRST EPOCH.
+
+### ⱧØ₩ ĐØ ł ₳₱₱ⱠɎ ₮Ø JØł₦ ₮ⱧɆ Đ₳Ø?
+
+*INTERFACE TO APPLY TO JOIN THE DAO STILL BEING SETUP. WE'LL ANNOUNCE WHEN FOLKS CAN APPLY. UNTIL THEN WE'LL BE WATCHING THE BATTLEGROUNDS FOR THOSE WHO RISE TO THE CHALLENGE.
+
+YOU WILL ONLY BE ACCEPTED INTO THE DAO AFTER YOU HAVE PAID TRIBUTE TO WAR EFFORTS. 
+
+### ⱧØ₩ ₩łⱠⱠ ₮Ⱨł₴ Ɇ₱Ø₵Ⱨ Đł₴₮Ɽł฿Ʉ₮łØ₦ ₩ØⱤ₭?
+1. COMMUNITY CONTRIBUTORS APPLY TO JOIN THE DAO WITH ETH TO STAKE. THIS STAKED ETH IS USED TO PROVIDE PRIORITY PURCHASE TO $HEGIC TOKENS DURING THE FIRST EPOCH DISTRIBUTION
+2. COMMUNITY CONTRIBUTORS APPLICATIONS ARE ACCEPTED / REJECTED
+3. COMMUNITY CONTRIBUTOR FUNDS ARE ONBOARDED INTO THE DAO (UNTIL THE ACTUAL DISTRIBUTION, ANYONE CAN RAGEQUIT AND LEAVE WITH THEIR STAKED FUNDS)
+4. WHEN THE DISTRIBUTION HAPPENS, THE STAKED ETH IS TRADED FOR $HEGIC TOKENS IN A TRUSTLESS TRADE AND HEGIC TOKENS DISTRIBUTED IN PROPORTION TO DAO SHARES OWNED
+5. DAO MEMBERS RAGEQUIT TO CLAIM THEIR HEGIC TOKENS
+
+### Ø₮ⱧɆⱤ ĐɆ₮₳łⱠ₴
+
+WE WILL BE USING MOLOCH V2 CODE FOR THE DAO.
+
+THERE WILL BE A LIMITED DISTRIBUTION AMOUNT TO DAO MEMBERS EACH (20 ETH) AND IN TOTAL AS A GROUP (240 ETH).
