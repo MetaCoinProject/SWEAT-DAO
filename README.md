@@ -20,3 +20,7 @@ Work your way into earning $META
 ### Who is allowed into the DAO?
 
 Contributors of sweat (effort, time & expertise) and cash (funding).
+
+### How do I request DAO Shares for my contributions to the project?
+
+Create an request here: [Request DAO Shares](https://github.com/metacoinproject/sweat-DAO/issues/new?template=sweat_proposal.md)
