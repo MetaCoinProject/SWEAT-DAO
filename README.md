@@ -10,7 +10,7 @@ ________                                                _________
                       METACOIN PROJECT
 ```
 
-DAO LINK:
+DAO LINK (Moloch v2):
 https://daohaus.club/dao/v1/0xe8a06e64812a06a12c170cecb15c6838f6d26637
 
 ### What is Sweat DAO?
