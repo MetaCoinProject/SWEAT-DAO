@@ -11,7 +11,7 @@ ________                                                _________
 ```
 
 DAO LINK (Moloch v2):
-https://daohaus.club/dao/v1/0xe8a06e64812a06a12c170cecb15c6838f6d26637
+https://daohaus.club/dao/v2/0x5e344035cc0282cb3c9f883d811c1f3eb311ebd1
 
 ### What is Sweat DAO?
 
